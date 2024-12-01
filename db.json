@@ -1,0 +1,34 @@
+{
+  "seller": [
+    {
+      "id": "0edc",
+      "name": "kamal",
+      "email": "kamal@gmail.com",
+      "password": 123
+    },
+    {
+      "id": "bac2",
+      "name": "karan",
+      "email": "karan@gmail.com",
+      "password": 123
+    },
+    {
+      "id": "e096",
+      "name": "shiv",
+      "email": "shiv@gmail.com",
+      "password": "1235"
+    },
+    {
+      "id": "6a45",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "535e",
+      "name": "",
+      "email": "",
+      "password": ""
+    }
+  ]
+}
