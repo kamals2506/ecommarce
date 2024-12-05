@@ -30,5 +30,25 @@
       "email": "",
       "password": ""
     }
+  ],
+  "products": [
+    {
+      "name": "samsung g",
+      "price": "46666",
+      "color": "white",
+      "category": "mobile",
+      "description": " asdf asdf saew",
+      "image": "https://fdn2.gsmarena.com/vv/pics/lg/lg-w41-plus-1.jpg",
+      "id": "b860"
+    },
+    {
+      "name": "vivo",
+      "price": "50000",
+      "color": "red",
+      "category": "mobile",
+      "description": "vivo mobile",
+      "image": "https://fdn2.gsmarena.com/vv/pics/lg/lg-w41-plus-1.jpg",
+      "id": "3d8d"
+    }
   ]
 }

@@ -40,3 +40,9 @@ color: blueviolet;
     font-family: sans-serif;
     
 }
+.p_message
+{
+    color: green;
+    font-size: 14px;
+    text-align: center;
+}

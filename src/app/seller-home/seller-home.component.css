@@ -1,0 +1,38 @@
+.product-list
+{
+    align-items: center;
+}
+table{
+    text-align: left;
+    color: blueviolet;
+    border-collapse: collapse;
+    
+}
+table thead
+{
+    background-color: #dce775;
+}
+table td, table th{
+    border: 1px solid blueviolet;
+    padding: 10px;
+    min-height: px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.icondelete
+{
+    color: red;
+    font-size: 24px;
+    margin: 5px;
+    padding: 5px;
+}
+.iconedit
+{
+    color: green;
+    font-size: 24px;
+    margin: 5px;
+    padding: 5px;
+}
